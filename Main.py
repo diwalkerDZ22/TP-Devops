@@ -1,2 +1,2 @@
 def afficher()
-    print("hello")
+    print("hello world")
